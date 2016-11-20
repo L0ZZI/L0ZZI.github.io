@@ -228,6 +228,7 @@ body {
 .text a,
 .text em,
 .text strong {
+  font: 1em/1.38 WorkSans-Medium;
   border-top-width: 0;
   border-right-width: 0;
   border-bottom-width: 0;
@@ -239,12 +240,6 @@ body {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   background-color: transparent;
-  font-family: inherit;
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: Medium;
-  text-transform: inherit;
-  text-decoration: inherit;
   letter-spacing: inherit;
   word-spacing: inherit;
   color: rgb(54, 125, 255);
