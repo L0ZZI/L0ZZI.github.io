@@ -1,0 +1,373 @@
+body {
+  min-width: none;
+  min-height: nonepx;
+  background-color: rgb(255, 255, 255);
+  font: normal 1em/1.48 WorkSans-Light;
+  color: #333333;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+.element {
+  float: left;
+  width: 128px;
+  min-width: none;
+  height: 128px;
+  min-height: nonepx;
+  margin: 48px 0 0 10.03125%;
+  border-radius: 64px;
+  background: url('../images/lozzi.jpeg') rgb(222, 222, 222);
+  background-size: 128px 128px;
+  background-position: center center;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+.text {
+  float: left;
+  min-width: none;
+  min-height: nonepx;
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+.text-7 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  min-width: none;
+  height: 36px;
+  min-height: nonepx;
+  margin-top: 24px;
+  border-radius: 4px;
+  font: 1em/1.38 WorkSans-Medium;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+.text-1 {
+  clear: both;
+  width: 50%;
+  margin: 47px 0 0 10.03125%;
+  font-size: 3em;
+  line-height: 1.38;
+  color: #333333;
+}
+
+.text-11,
+.text-13,
+.text-15,
+.text-9 {
+  clear: both;
+  margin: 12px 0 0 10%;
+  font-family: WorkSans-Medium;
+  font-size: 1em;
+  color: rgb(54, 125, 255);
+}
+
+.text-11:hover,
+.text-13:hover,
+.text-15:hover,
+.text-3:hover,
+.text-4:hover,
+.text-5:hover,
+.text-6:hover,
+.text-9:hover {
+  color: rgb(88, 146, 253);
+}
+
+.text-10,
+.text-12,
+.text-14,
+.text-16 {
+  clear: both;
+  margin-left: 10%;
+  font-size: 1em;
+  color: rgb(51, 51, 51);
+}
+
+.text-2 {
+  clear: both;
+  width: 36%;
+  margin: 13px 0 0 10.03125%;
+  font-size: 1.5em;
+  color: #333333;
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 12;
+  margin: 24px 0 0 9.9973958333%;
+  font: 1em/1.38 WorkSans-Medium;
+  color: rgb(54, 125, 255);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 14;
+  margin: 24px 0 0 1.95052%;
+  font: 1em/1.38 WorkSans-Medium;
+  color: rgb(54, 125, 255);
+}
+
+.text-5 {
+  position: relative;
+  z-index: 13;
+  margin: 24px 0 0 1.99349%;
+  font: 1em/1.38 WorkSans-Medium;
+  color: rgb(54, 125, 255);
+}
+
+.text-6 {
+  position: relative;
+  z-index: 15;
+  margin: 24px 0 0 2.0052083333%;
+  font: 1em/1.38 WorkSans-Medium;
+  color: rgb(54, 125, 255);
+}
+
+.text-7 {
+  clear: both;
+  width: 36%;
+  margin: 24px 0 0 10.0325520833%;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-8 {
+  clear: both;
+  margin: 48px 0 0 10%;
+  font-size: 1.5em;
+  line-height: 1.38;
+  color: rgb(51, 51, 51);
+}
+
+._button-1 {
+  clear: both;
+  z-index: 17;
+  width: 96px;
+  margin-left: 10.03125%;
+  background-color: rgb(54, 125, 255);
+}
+
+._button-1:hover {
+  background-color: rgb(88, 146, 253);
+}
+
+._button-2 {
+  z-index: 18;
+  width: 88px;
+  margin-left: 1.08594%;
+  background-color: rgb(245, 77, 99);
+}
+
+._button-2:hover {
+  background-color: rgb(255, 101, 121);
+}
+
+.text a,
+.text em,
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: Medium;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(54, 125, 255);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 1200px) {
+  ._button {
+    position: relative;
+  }
+
+  .text-3 {
+    position: relative;
+    z-index: 12;
+  }
+
+  .text-4 {
+    position: relative;
+    z-index: 14;
+  }
+
+  .text-5 {
+    position: relative;
+    z-index: 13;
+  }
+
+  .text-6 {
+    position: relative;
+    z-index: 15;
+  }
+
+  .text-2,
+  .text-7 {
+    width: 46%;
+  }
+
+  ._button-1 {
+    z-index: 17;
+  }
+
+  ._button-2 {
+    z-index: 18;
+  }
+}
+
+@media(max-width: 560px) {
+  body {
+    font-size: 1em;
+  }
+
+  ._button {
+    position: relative;
+  }
+
+  .text-3 {
+    position: relative;
+    z-index: 12;
+  }
+
+  .text-4 {
+    position: relative;
+    z-index: 14;
+  }
+
+  .text-5 {
+    position: relative;
+    z-index: 13;
+  }
+
+  .text-6 {
+    position: relative;
+    z-index: 15;
+  }
+
+  .text-1,
+  .text-2,
+  .text-7 {
+    width: 80%;
+  }
+
+  ._button-1 {
+    z-index: 17;
+  }
+
+  ._button-2 {
+    z-index: 18;
+  }
+}
+
+@media(max-width: 320px) {
+  ._button {
+    position: relative;
+  }
+
+  .text-3 {
+    position: relative;
+    z-index: 12;
+  }
+
+  .text-4 {
+    position: relative;
+    z-index: 14;
+  }
+
+  .text-5 {
+    position: relative;
+    z-index: 13;
+  }
+
+  .text-6 {
+    position: relative;
+    z-index: 15;
+  }
+
+  ._button-1 {
+    z-index: 17;
+  }
+
+  ._button-2 {
+    z-index: 18;
+    margin-left: 3.896484375%;
+  }
+}
