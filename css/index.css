@@ -27,9 +27,8 @@ body {
   min-width: none;
   height: 128px;
   min-height: nonepx;
-  margin: 48px 0 0 10.03125%;
-  border-radius: 64px;
-  background: url('../images/grommet-peep-chris-avatar.png') rgb(222, 222, 222);
+  margin: 48px 0 0 10%;
+  background: url('../images/grommet-peep-chris-avatar.png');
   background-size: 128px 128px;
   background-position: center center;
   -webkit-transform: none;
